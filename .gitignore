@@ -1,3 +1,13 @@
+## C
+*.o
+
+## C++
+*.gch
+*.obj
+
+
+## cmake
+build/
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
